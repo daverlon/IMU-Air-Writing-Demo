@@ -6,6 +6,10 @@ model reads the 28x28 raster.
 
 Accel is not integrated. This is not inertial dead-reckoning.
 
+![Air writing pipeline demo](airwriting_preview.gif)
+
+The clip shows the Python projection demo (virtual tip, locked page, 28×28 raster, letter commit), then the same pipeline in the Kotlin field-service app, with wrist gestures for navigation.
+
 ## Run
 
 ```bash
